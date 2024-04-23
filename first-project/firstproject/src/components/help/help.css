@@ -1,0 +1,11 @@
+ul li ul {
+  width: 20em;
+  padding: 2em;
+  padding-bottom: 7em;
+  border: 2px solid black;
+  text-align: center;
+}
+
+ul h2 {
+  font-size: 40px;
+}
